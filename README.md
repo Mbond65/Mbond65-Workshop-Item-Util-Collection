@@ -4,7 +4,7 @@ A collection of programs and scripts to help decompile and compile models for Gm
 <h3>About</h3>
 
 This repository contains a set of programs and scripts to help people decompile and recompile Gmod models, it's a collection I've put
-together to save someone time doing this themselve. The tools included in this repository allow you to download models directly from the steam
+together to save people time doing this themselfs. The tools included in this repository allow you to download models directly from the steam
 workshop, decompile them, edit them as required and recompile them.
 
 <h3>What's included</h3>
